@@ -1,0 +1,3 @@
+https://www.go2group.com/connectall/adapters/atlassian-jira/ --- connectALL
+
+https://www.go2group.com/product/atlassian-jira-adapter-connectall/ -- connectAll
